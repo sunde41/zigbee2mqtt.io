@@ -7,7 +7,7 @@ description: "Integrate your TuYa TS0115 via Zigbee2MQTT with whatever smart hom
 *To contribute to this page, edit the following
 [file](https://github.com/Koenkk/zigbee2mqtt.io/blob/master/docs/devices/E220-KR4N0Z0-HA.md)*
 
-# TuYa TS0115
+# TuYa E220-KR4N0Z0-HA
 
 | Model | E220-KR4N0Z0-HA  |
 | Vendor  | TuYa  |
