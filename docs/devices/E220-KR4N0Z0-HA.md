@@ -1,6 +1,6 @@
 ---
 title: "TuYa E220-KR4N0Z0-HA control via MQTT"
-description: "Integrate your TuYa TS0115 via Zigbee2MQTT with whatever smart home
+description: "Integrate your TuYa E220-KR4N0Z0-HA via Zigbee2MQTT with whatever smart home
  infrastructure you are using without the vendors bridge or gateway."
 ---
 
